@@ -45,10 +45,9 @@ gerador_relatorios/
 ## ⚙️ Requisitos
 
 - Python 3.10 ou superior
-- Bibliotecas Python:
+- Bibliotecas Python: pip install pyqt6 fpdf
 
 ```bash
-pip install pyqt6 fpdf
 
 🖥️ Como Usar
 
