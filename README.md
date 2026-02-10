@@ -92,7 +92,8 @@ python ui_main.py
 📜 Licença
 
 Este projeto está disponível sob a licença MIT, podendo ser usado, modificado e distribuído livremente.
-👤 Autor
+
+Autor
 
 Jonathan S. Cardoso
 Desenvolvedor Python | Projetos de Análise de Dados e Interfaces Gráficas
