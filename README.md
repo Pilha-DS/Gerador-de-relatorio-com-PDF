@@ -3,7 +3,7 @@
 
 ## Descrição
 
-Este projeto é um **sistema desktop em Python** que permite importar arquivos de dados (CSV ou JSON), analisar todas as variáveis automaticamente e gerar **relatórios completos em PDF**.  
+Este projeto é um **sistema desktop em Python** que permite importar arquivos de dados (CSV ou JSON), analisar todas as variáveis automaticamente e gerar **relatórios simples em PDF**.  
 
 O sistema identifica o tipo de cada coluna (numérica ou categórica), calcula estatísticas relevantes, mostra frequências de valores para colunas categóricas e inclui uma tabela consolidada com todos os dados.
 
