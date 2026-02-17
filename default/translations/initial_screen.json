@@ -1,0 +1,29 @@
+{
+  "en": {
+    "base": "English",
+    "application_name": "Data analysis",
+    "change_lang_btn": "Change language",
+    "initial_contact": "Hello",
+    "ending_application": "Goodby",
+    "generate_simple_pdf": "Generate simple report",
+    "generate_advaced_pdf": "Generate advaced report" 
+  },
+  "br": {
+    "base": "Portugues brasileiro",
+    "application_name": "Analise de dados",
+    "change_lang_btn": "Alterar idioma",
+    "initial_contact": "Olá",
+    "ending_application": "Adeus",
+    "generate_simple_pdf": "Gerar relatorio simples",
+    "generate_advaced_pdf": "Gerar relatorio avançado"  
+  },
+  "es": {
+    "base": "Espanol",
+    "application_name": "Análisis de datos",
+    "change_lang_btn": "Cambiar idioma",
+    "initial_contact": "Hola",
+    "ending_application": "Adius",
+    "generate_simple_pdf": "Generar informe sencillo",
+    "generate_advaced_pdf": "Generar informe avanzado" 
+  }
+}
