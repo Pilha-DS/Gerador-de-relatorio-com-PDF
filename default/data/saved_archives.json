@@ -1,0 +1,52 @@
+{
+    "loaded_archives": [
+        {
+            "path": "aaaa/aaaa/aaaa/ (absolute)",
+            "name": "name_of_var",
+            "custom_name": "aaaa",
+            "pinned": "true or false",
+            "last_open": "dd/mm/aaaa, mm/dd/aaaa, dd/mm/aa, mm/dd/aa",
+            "type": "json, xml, csv"
+        },
+        {
+            "path": "C:/Users/Jonathan/Downloads/airports.csv",
+            "name": "airports.csv",
+            "custom_name": "airports.csv",
+            "pinned": false,
+            "last_open": "16/02/2026",
+            "type": "csv"
+        },
+        {
+            "path": "C:/Users/Jonathan/Downloads/example-countries-pt.csv",
+            "name": "example-countries-pt.csv",
+            "custom_name": "example-countries-pt.csv",
+            "pinned": false,
+            "last_open": "16/02/2026",
+            "type": "csv"
+        },
+        {
+            "path": "C:/Users/Jonathan/Downloads/people-10000.csv",
+            "name": "people-10000.csv",
+            "custom_name": "people-10000.csv",
+            "pinned": false,
+            "last_open": "16/02/2026",
+            "type": "csv"
+        },
+        {
+            "path": "C:/Users/Jonathan/Downloads/ppp.json",
+            "name": "ppp.json",
+            "custom_name": "ppp.json",
+            "pinned": false,
+            "last_open": "16/02/2026",
+            "type": "json"
+        },
+        {
+            "path": "C:/Users/Jonathan/Downloads/dados_aleatorios.json",
+            "name": "dados_aleatorios.json",
+            "custom_name": "dados_aleatorios.json",
+            "pinned": false,
+            "last_open": "16/02/2026",
+            "type": "json"
+        }
+    ]
+}
