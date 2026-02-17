@@ -21,8 +21,6 @@ O objetivo é facilitar a visualização e análise de conjuntos de dados de for
 - Suporte a **valores longos e múltiplas páginas**
 ---
 
-📜 Licença
-Este projeto está disponível sob a licença MIT, podendo ser usado, modificado e distribuído livremente.
+📜 Licença: Este projeto está disponível sob a licença MIT, podendo ser usado, modificado e distribuído livremente.
 
-Autor:
-Pilha-DS | Desenvolvedor Python | Projetos de Análise de Dados e Interfaces Gráficas
+Autor: Pilha-DS | Desenvolvedor Python | Projetos de Análise de Dados e Interfaces Gráficas
