@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/Python-3+-blue.svg"> <img src="https://img.shields.io/badge/pyQT6+-red.svg">
-# Gerador de Relatórios em PDF - Análise de Dados com PyQt6
+# Gerador de Relatórios em PDF - Análise de Dados com inteface grafica
 
 ## Descrição
 
